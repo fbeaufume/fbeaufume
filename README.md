@@ -16,8 +16,7 @@ You can contact me using [Twitter](https://twitter.com/fbeaufume) or [LinkedIn](
 Serious stuff :briefcase: - I share several Java/Spring/backend projects such as:
 - [Microshop](https://github.com/fbeaufume/microshop): a sample microservice application using Spring Boot and Spring Cloud
 - [Spring GraphQL Sample](https://github.com/fbeaufume/spring-graphql-sample): a sample GraphQL backend using Spring Boot
-- Several Spring Webflux sample applications
-- Various Java code samples 
+- Various Java or Spring sample applications
 
 Fun stuff :rocket: - I also share some web projects:
 - [Keybout](https://github.com/fbeaufume/keybout): a multiplayer keyboard racing game based on Angular, WebSocket, Spring Boot and Kotlin
