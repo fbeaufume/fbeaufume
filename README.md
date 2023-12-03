@@ -16,6 +16,8 @@ You can contact me using [Twitter](https://twitter.com/fbeaufume) or [LinkedIn](
 Work stuff :briefcase: - I share several Java/Spring/backend projects such as :
 - [Microshop](https://github.com/fbeaufume/microshop) : a sample microservice application (Spring Boot, Spring Cloud, Java)
 - [Spring GraphQL Sample](https://github.com/fbeaufume/spring-graphql-sample) : a sample GraphQL backend (Spring Boot, GraphQL, Java)
+- [Hibernate Monitoring](https://github.com/fbeaufume/hibernate-monitoring): a sample application for my [Hibernate monitoring guide](https://www.adeliosys.fr/articles/hibernate-monitoring/) article
+- [Spring Data MongoDB reactive insertion](https://github.com/fbeaufume/spring-data-mongodb-reactive-insertion) : a sample application for my [Spring Data MongoDB reactive performance tip](https://www.adeliosys.fr/articles/spring-data-mongo-reactive-performance-tip/) article
 - Various Java or Spring sample applications
 
 Fun stuff :rocket: - I also share several personal projects :
