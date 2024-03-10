@@ -18,6 +18,7 @@ Work stuff 💼 - I share several Java/Spring/backend projects such as :
 - [Spring GraphQL sample](https://github.com/fbeaufume/spring-graphql-sample) : a sample GraphQL backend (Spring Boot, GraphQL, Java)
 - [Hibernate monitoring](https://github.com/fbeaufume/hibernate-monitoring) : a sample application for my [Hibernate monitoring guide](https://www.adeliosys.fr/articles/hibernate-monitoring/) article
 - [Spring Boot access log filter](https://github.com/fbeaufume/access-log-filter) : a sample application for my [Spring Boot access log filter](https://www.adeliosys.fr/articles/access-log-filter/) article
+- [Spring tests](https://github.com/fbeaufume/spring-tests) : a sample application for my [Switching between H2 and Testcontainers in Spring tests](https://www.adeliosys.fr/articles/spring-tests-database/) article
 - [Security annotations in Spring tests](https://github.com/fbeaufume/spring-tests-security-annotations) : a sample application for my [Security annotations in Spring tests](https://www.adeliosys.fr/articles/spring-tests-security-annotations/) article
 - [Spring Data MongoDB reactive insertion](https://github.com/fbeaufume/spring-data-mongodb-reactive-insertion) : a sample application for my [Spring Data MongoDB reactive performance tip](https://www.adeliosys.fr/articles/spring-data-mongo-reactive-performance-tip/) article
 - Various Java or Spring sample applications
