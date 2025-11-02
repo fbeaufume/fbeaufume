@@ -16,10 +16,10 @@ You can contact me using [Twitter](https://twitter.com/fbeaufume) or [LinkedIn](
 Work stuff 💼 - I share several Java/Spring/backend projects such as :
 
 - [Spring AI samples](https://github.com/fbeaufume/spring-ai-samples) :
-  a sample application for my [Getting started with Spring AI](https://www.adeliosys.fr/articles/spring-ai-basics/)
-  article
+  sample applications for my [Getting started with Spring AI](https://www.adeliosys.fr/articles/spring-ai-basics/)
+  and [Chatbot with Spring AI](https://www.adeliosys.fr/articles/spring-ai-chatbot/) articles
 - [Hibernate monitoring](https://github.com/fbeaufume/hibernate-monitoring) :
-  a sample application for my [Hibernate monitoring guide](https://www.adeliosys.fr/articles/hibernate-monitoring/)
+  a sample application for my [Hibernate logging and monitoring guide](https://www.adeliosys.fr/articles/hibernate-monitoring/)
   article
 - [Spring tests](https://github.com/fbeaufume/spring-tests) :
   a sample application for my [Getting started with Spring tests](https://www.adeliosys.fr/articles/spring-tests/) and
