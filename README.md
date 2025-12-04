@@ -3,8 +3,8 @@
 I'm a freelance software architect and senior developer.
 I'm an expert in Java/Spring/backend, and also enjoy programming with Kotlin and Angular.
 
-You can find more information in my personal site [Florian Beaufumé](https://beaufume.fr/), including some of my
-[technical presentations](https://beaufume.fr/presentations/) and [articles](https://beaufume.fr/articles/).
+You can find more information in my personal site [beaufume.fr](https://beaufume.fr/), including my
+[articles](https://beaufume.fr/articles/) and some of my [technical presentations](https://beaufume.fr/presentations/).
 
 You can contact me on [X](https://x.com/fbeaufume),
 [Bluesky](https://bsky.app/profile/fbeaufume.bsky.social) or [LinkedIn](https://www.linkedin.com/in/fbeaufume/).
